@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [ 
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Video shows Memphis police officers kicking, beating Tyre Nichols - Reuters",
+      "description": "Tyre Nichols repeatedly cried, \"Mom! Mom!” as the five Memphis police officers now charged with the Black motorist's murder pummeled him with kicks, punches and baton blows after a Jan. 7 <a href=\"/world/us/events-memphis-police-beating-death-tyre-nichols-202…",
+      "url": "https://www.reuters.com/world/us/memphis-braces-video-fatal-police-encounter-with-black-motorist-2023-01-27/",
+      "urlToImage": "https://www.reuters.com/resizer/3DUL2hc5Wvht-JqLrtQYxMTyUY0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YUDP5CASVBOGNOJDCVZIOQ322I.jpg",
+      "publishedAt": "2023-01-28T05:16:00Z",
+      "content": "MEMPHIS, Tenn., Jan 27 (Reuters) - Tyre Nichols repeatedly cried, \"Mom! Mom! as the five Memphis police officers now charged with the Black motorist's murder pummeled him with kicks, punches and bato… [+6031 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Jan. 6 rioter who assaulted Capitol Police Officer Brian Sicknick sentenced to over 6 years in jail - CNN",
+      "description": "A man who assaulted United States Capitol Police officer Brian Sicknick with pepper spray on January 6, 2021, was sentenced on Friday to 80 months behind bars.",
+      "url": "https://www.cnn.com/2023/01/27/politics/sicknick-capitol-attack-khater-tanios-sentencing/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230127121602-julian-khater-capitol-riot-bear-spray.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-28T00:31:00Z",
+      "content": "A man who assaulted United States Capitol Police Officer Brian Sicknick with pepper spray on January 6, 2021, was sentenced on Friday to 80 months behind bars. \r\nJulian Khater pleaded guilty in Septe… [+4892 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Tyre Nichols death: Memphis police release bodycam footage | LiveNOW from FOX - LiveNOW from FOX",
+      "description": "Tyre Nichols Death: Police released a series of videos showing Tyre Nichols being beaten in an encounter with five former Memphis police officers, who are ch...",
+      "url": "https://www.youtube.com/watch?v=2TbLj8HPzg0",
+      "urlToImage": "https://i.ytimg.com/vi/2TbLj8HPzg0/maxresdefault_live.jpg",
+      "publishedAt": "2023-01-27T12:00:27Z",
+      "content": null
+    }
+  ]
+}
